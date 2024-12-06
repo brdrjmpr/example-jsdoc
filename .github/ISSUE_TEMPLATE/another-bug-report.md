@@ -1,6 +1,6 @@
 ---
-name: buenro
-about: the benjamins
+name: SE Bug Report
+about: reports a bug
 labels: horse, rider, tall
 title: this is the test issue template
 ---
